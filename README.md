@@ -4,7 +4,7 @@ Instructor: [Andrew Ng](http://www.andrewng.org/) <br><br>
 Current status of the repo:
 - ✅ Week 1
 - ✅ Week 2 + Exercise session 1
-- ❌ Week 3
+- ✅ Week 3
 - ❌ Week 4
 - ❌ Week 5
 - ❌ Week 6
