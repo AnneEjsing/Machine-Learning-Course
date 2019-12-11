@@ -2,14 +2,25 @@
 
 Instructor: [Andrew Ng](http://www.andrewng.org/) <br><br>
 Current status of the repo:
-- ✅ Week 1
-- ✅ Week 2 + Exercise session 1
-- ✅ Week 3
-- ❌ Week 4
-- ❌ Week 5
-- ❌ Week 6
-- ❌ Week 7
-- ❌ Week 8
+<table border="0">
+ <tr>
+    <td>
+        ✅ Week 1 <br>
+        ✅ Week 2 + Exercise session 1 <br>
+        ✅ Week 3 <br>
+        ❌ Week 4 <br>
+        ❌ Week 5 <br>
+        ❌ Week 6 <br>
+    </td>
+    <td>
+        ❌ Week 7 <br>
+        ❌ Week 8 <br>
+        ❌ Week 9 <br>
+        ❌ Week 10 <br>
+        ❌ Week 11 <br>
+    </td>
+ </tr>
+</table>
 
 ## Introduction
 This repository tracks all my work for this specialisation course. This includes my answers to the programming exercises, some notes and thoughts about the exercises. All exercises are solved in Octave; an open-source implementation of MatLab.
