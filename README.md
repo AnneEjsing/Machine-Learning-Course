@@ -10,7 +10,7 @@ Current status of the repo:
         ✅ Week 3 + Exercise session 2 <br>
         ✅ Week 4 + Exercise session 3 <br>
         ✅ Week 5 + Exercise session 4 <br>
-        ❌ Week 6 <br>
+        ✅ Week 6 + Exercise session 5 <br>
     </td>
     <td>
         ❌ Week 7 <br>
