@@ -74,6 +74,9 @@ while ~isempty(email_contents)
     if length(str) < 1
        continue;
     end
+    
+    idx = find(ismember(vocabList, str));
+    word_indices = [word_indices, idx];
 
     % Look up the word in the dictionary and add to word_indices if
     % found
