@@ -14,7 +14,7 @@ Current status of the repo:
     </td>
     <td>
         ✅ Week 7 + Exercise session 6 <br>
-        ❌ Week 8 <br>
+        ✅ Week 8 + Exercise session 7 <br>
         ❌ Week 9 <br>
         ❌ Week 10 <br>
         ❌ Week 11 <br>

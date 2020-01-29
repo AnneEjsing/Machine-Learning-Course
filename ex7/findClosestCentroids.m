@@ -11,6 +11,13 @@ K = size(centroids, 1);
 % You need to return the following variables correctly.
 idx = zeros(size(X,1), 1);
 
+for i = 1:size(X,1)
+    min_dist = inf;
+    for j = 1:K
+        curr_dist(j) = sum((X(i,:) - centroids(j,:)).^2);
+    end
+    idx(i) = find(curr_dist == min(curr_dist));
+end
 % ====================== YOUR CODE HERE ======================
 % Instructions: Go over every example, find its closest centroid, and store
 %               the index inside idx at the appropriate location.
